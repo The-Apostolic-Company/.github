@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is the github organization for THE APOSTOLIC COMPANY
+
 <!--
 
 **Here are some ideas to get you started:**
